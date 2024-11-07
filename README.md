@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thiagomrns
-- 👀 I’m interested in Learn how to code and work with it
+- 👀 I’m interested in Learn how to code
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: Here in GH or Email me: thiagomartins0207@gmail.com
 
